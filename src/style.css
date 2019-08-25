@@ -1,0 +1,15 @@
+.invisible {
+  display: none;
+}
+
+.alert-no-input {
+  margin: 1rem 0;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.input-field {
+  margin-bottom: 1rem;
+}
