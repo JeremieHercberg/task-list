@@ -1,3 +1,4 @@
+/* Alert */
 .invisible {
   display: none;
 }
@@ -6,10 +7,23 @@
   margin: 1rem 0;
 }
 
+/* Card */
 .card {
   margin-bottom: 1rem;
 }
 
+/* Input Fields */
 .input-field {
   margin-bottom: 1rem;
+}
+
+/* Tasks List */
+.list-tasks {
+  list-style: none;
+}
+
+/* Link in Task List - Remove Icon */
+.icon-remove {
+  margin-left: 5rem;
+  cursor: pointer;
 }
